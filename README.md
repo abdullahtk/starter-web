@@ -2,7 +2,7 @@
 This is a simple example
 
 ## Introduction
-My name is unknown
+My name is unknown, more changes from features branch
 ## Purpose
 This example will teach me how to work with GitHub
 ## Deployment
